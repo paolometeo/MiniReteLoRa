@@ -1,0 +1,3 @@
+void Count(){
+  n++;
+}
