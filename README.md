@@ -14,4 +14,7 @@ The programs are compatible for these boards: for TX nodes:
 
 Programs can be uploaded by means of Arduino IDE.
 
-New programs are available:  TX_Gener
+New programs are available:  TX_Generic_LoRa and RX_Generic_Autoconnect_Milano_V4.  
+The first program can be used for a generic TX node, it uses  LoRa.h library instead of RadioHead. It has the possibility to change Spreading Factor value, from 7 to 12.
+The second program can be used for a generic RX node that can receive messages from TX node using LoRa.h or RadioHead library. In this program you can interactively set frequency, Spreading Factor and WiFi credential.
+
