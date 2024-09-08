@@ -14,3 +14,4 @@ The programs are compatible for these boards: for TX nodes:
 
 Programs can be uploaded by means of Arduino IDE.
 
+New programs are available:  TX_Gener
